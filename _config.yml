@@ -14,6 +14,10 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+
+# the avatar on sidebar, support local or CORS resources
+avatar: "/assets/img/avatar.jpg"  # ← Path to your photo (add this file next)
+
 # Home page hero settings
 title: "Nicholas M. Njama"  # ← Your name (big hero text)
 tagline: "Cybersecurity Engineer • DevSecOps • Webdeveloper • Ethical hacker and Pentester"  # ← Subtitle/tagline
@@ -94,8 +98,7 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
-# the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/avatar.jpg"  # ← Path to your photo (add this file next)
+
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
