@@ -35,7 +35,8 @@ jobs:
         run: bundle exec jekyll build --trace
         env:
           JEKYLL_ENV: production
-          JEKYLL_BASEURL: ""   # ← forces empty baseurl, overrides everything
+          JEKYLL_BASEURL: ""
+          JEKYLL_URL: "https://muriminicholas.github.io"
 
       - name: Test with HTMLProofer
         run: |
