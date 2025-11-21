@@ -14,12 +14,11 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
-
-tagline: A text-focused Jekyll theme # it will display as the subtitle
-
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+# Home page hero settings
+title: "Nicholas M. Njama"  # ← Your name (big hero text)
+tagline: "Cybersecurity Engineer • DevSecOps • Webdeveloper • Ethical hacker and Pentester"  # ← Subtitle/tagline
+description: "Building secure, scalable web applications with Spring Boot and Jakarta EE. Automating everything with Python. Breaking (and fixing) things for a living in cybersecurity."  # ← Short bio under the hero
+avatar: "/assets/img/avatar.png"  # ← Path to your photo (add this file next)
 
 
 
