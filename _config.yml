@@ -41,9 +41,10 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/atomic_ke # change to your Twitter homepage
     - https://github.com/muriminicholas # change to your GitHub homepage
+    - https://www.linkedin.com/in/muriminicholas
+
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/muriminicholas
 
 # Site Verification Settings
 webmaster_verifications:
