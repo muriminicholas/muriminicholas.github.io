@@ -30,7 +30,7 @@ github:
   username: muriminicholas # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: atomic_ke # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,11 +39,11 @@ social:
   email: muriminicholas197@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/@nichonix # change to your Twitter homepage
+    - https://twitter.com/atomic_ke # change to your Twitter homepage
     - https://github.com/muriminicholas # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/muriminicholas
 
 # Site Verification Settings
 webmaster_verifications:
