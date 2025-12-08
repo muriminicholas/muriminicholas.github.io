@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+permalink: /
 subtitle: "Currently working on secure Java backends, offensive security tools, and Python automation that saves hours every week."
 ---
 
